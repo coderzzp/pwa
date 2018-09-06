@@ -7,4 +7,5 @@ import workers from './workers'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
+workers()
 
