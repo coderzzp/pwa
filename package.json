@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/coderzzp/pwa",
+  "homepage": "https://coderzzp.github.io/pwa",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
